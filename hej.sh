@@ -1,0 +1,1 @@
+echo ${GITHUB_SHA::8}
